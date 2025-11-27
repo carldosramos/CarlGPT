@@ -1,0 +1,3 @@
+Pin<Box<dyn tokio_stream::Stream<Item = Result<std::string::String, std::string::String>> + std::marker::Send>>
+Pin<Box<dyn tokio_stream::Stream<Item = Result<std::string::String, std::string::String>> + std::marker::Send>>: sqlx::Type<Postgres>
+&Pin<Box<dyn tokio_stream::Stream<Item = Result<std::string::String, std::string::String>> + std::marker::Send>>

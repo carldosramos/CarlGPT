@@ -1,0 +1,5 @@
+dyn tokio_stream::Stream<Item = Result<std::string::String, std::string::String>> + std::marker::Send
+Unique<dyn tokio_stream::Stream<Item = Result<std::string::String, std::string::String>> + std::marker::Send>
+Box<dyn tokio_stream::Stream<Item = Result<std::string::String, std::string::String>> + std::marker::Send>
+Pin<Box<dyn tokio_stream::Stream<Item = Result<std::string::String, std::string::String>> + std::marker::Send>>
+&Pin<Box<dyn tokio_stream::Stream<Item = Result<std::string::String, std::string::String>> + std::marker::Send>>

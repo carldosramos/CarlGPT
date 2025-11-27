@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/carl/Documents/Code/llm_api_app/backend/target/debug/build/mime_guess-b575defc27793729/out/mime_types_generated.rs
